@@ -1040,6 +1040,9 @@ h4 {
         width: 180px;
         height: 320px;
     }
+    .img-responsive {
+        width: 100%;
+    }
 }
 
 @media (max-width: 400px) {
