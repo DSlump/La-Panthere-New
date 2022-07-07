@@ -839,9 +839,6 @@ h4 {
     background-image: url("img/image-de-presentation.webp");
 }
 
-.contactbloc p {
-    font-size: larger;
-}
 
 @media (max-width: 1024px) {
     .bloc {
