@@ -766,7 +766,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(165, 147, 99, 0.7);
+    background-color: black;
     padding: 40px 40px 40px 40px;
 }
 
@@ -789,6 +789,7 @@ h4 {
 
 .tc-white {
     color: white!important;
+    background-color: #000000;
 }
 
 .btn-atomic-tangerine {
@@ -838,6 +839,9 @@ h4 {
     background-image: url("img/image-de-presentation.webp");
 }
 
+.contactbloc p {
+    font-size: larger;
+}
 
 @media (max-width: 1024px) {
     .bloc {
