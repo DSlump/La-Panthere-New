@@ -690,7 +690,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 14px;
 }
 
 .tight-width-whitespace {
@@ -837,6 +837,12 @@ h4 {
 
 .bg-presentation {
     background-image: url("img/image-de-presentation.webp");
+}
+
+.word {
+    text-align: center;
+    color: white;
+    background-color: orange;
 }
 
 
